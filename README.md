@@ -6,24 +6,24 @@ To implement filters for smoothing and sharpening the images in the spatial doma
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1
+### Step1 : Import the required packages .
 </br>
 </br> 
 
-### Step2
+### Step2 : Use the methods for performing smoothening on the given image one by one and display them.
 </br>
 </br> 
 
 ### Step3
-</br>
+</br> Perform sharpening on the given image using the Laplacian methods
 </br> 
 
 ### Step4
-</br>
+</br> Display the sharpened image using the required functions
 </br> 
 
 ### Step5
-</br>
+</br> End the execution 
 </br> 
 
 ## Program:
@@ -165,28 +165,28 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
-</br>![output](1.png)
+</br>![1](https://user-images.githubusercontent.com/93427210/230450814-7e93c0a0-8c52-4d03-a48b-d44d90358338.png)
 </br>
 </br>
 </br>
 </br>
 
 ii) Using Weighted Averaging Filter
-</br>![output](2.png)
+</br>![2](https://user-images.githubusercontent.com/93427210/230450835-4fa32f4e-08c6-4b15-bc7c-446bd478f300.png)
 </br>
 </br>
 </br>
 </br>
 
 iii) Using Gaussian Filter
-</br>![output](3.png)
+</br>![3](https://user-images.githubusercontent.com/93427210/230450894-4a57ba47-b051-4340-9be0-9bd4bdc8f178.png)
 </br>
 </br>
 </br>
 </br>
 
 iv) Using Median Filter
-</br>![output](4.png)
+</br>![4](https://user-images.githubusercontent.com/93427210/230450942-d05d7a98-a611-4430-91d5-a2b02957bb69.png)
 </br>
 </br>
 </br>
@@ -196,14 +196,14 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
-</br>![output](5.png)
+</br>![5](https://user-images.githubusercontent.com/93427210/230450980-69feb28d-eb90-47f4-8d43-2d7c41b23414.png)
 </br>
 </br>
 </br>
 </br>
 
 ii) Using Laplacian Operator
-</br>![output](6.png)
+</br>![6](https://user-images.githubusercontent.com/93427210/230451008-346f462c-37fb-46ed-b68d-b6feb879eafc.png)
 </br>
 </br>
 </br>
